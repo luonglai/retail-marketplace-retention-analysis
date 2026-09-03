@@ -2,7 +2,7 @@
 
 **SQL + Python + Tableau | Olist Brazilian E-Commerce Marketplace, 2016–2018**
 
-### 🔗 [View the interactive dashboard on Tableau](https://public.tableau.com/app/profile/luong.lai/viz/E-CommerceMarketplaceRetentionPerformanceAnalysis/Dashboard1?publish=yes)
+### [View the interactive dashboard on Tableau](https://public.tableau.com/app/profile/luong.lai/viz/E-CommerceMarketplaceRetentionPerformanceAnalysis/Dashboard1?publish=yes)
 
 ![Dashboard preview](dashboard_preview.png)
 
